@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabsDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Книги</string>
+    <string name="tab_text_2">Фильмы</string>
+    <string name="tab_text_3">Сериалы</string>
+    <string name="tab_text_4">ТВ Шоу</string>
+</resources>
